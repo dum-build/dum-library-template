@@ -1,0 +1,12 @@
+{
+	"private": true,
+	"scripts": {
+		"prepublish": "dum build",
+		"watch": "dum watch"
+	},
+	"devDependencies": {
+		"dum": "dum-build/dum",
+		"jstransformer-babel": ""
+	},
+	"license": "WTFPL"
+}

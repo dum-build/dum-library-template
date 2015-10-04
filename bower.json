@@ -1,0 +1,8 @@
+{
+	"name": "YOUR-NAME-HERE",
+	"description": "",
+	"main": "lib",
+	"dependencies": {},
+	"license": "",
+	"ignore": ["**/.*", "bower_components", "node_modules", "package.json", "src"]
+}
